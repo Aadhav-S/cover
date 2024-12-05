@@ -169,7 +169,8 @@ img {
 
 
 ## OUTPUT:
-![alt text](24005747.jpg)
+
+![Screenshot (31)](https://github.com/user-attachments/assets/69fad3fa-41e5-4420-9cc1-ede77b415d12)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
